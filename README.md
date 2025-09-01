@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AI, Data Science, Data Analysis using PYTHON**
 
-- - 🏢 **Oracle Database Intern** at **EY (3 months)**. **"PLSIN Valuation Issues"**
+-  🏢 **Oracle Database Intern** at **EY (3 months)**. **"PLSIN Valuation Issues"**
 
 - 💬 Ask me about **Python, Front-End, Databases and Visualizations**
 
